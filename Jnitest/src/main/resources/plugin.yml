@@ -1,0 +1,4 @@
+name: Jnitest
+version: '${project.version}'
+main: be4rjp.jnitest.Jnitest
+api-version: 1.15
